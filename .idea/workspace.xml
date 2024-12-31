@@ -5,118 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7908da34-72a2-45e0-b0b3-16476959fa22" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/yuvibirdi.com.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/.idea/personal-portfolio.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/public/resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/font/CentraNo2-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/font/CentraNo2-Book.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/font/CentraNo2-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/arrow1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/arrow2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/banner-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/color-sharp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/color-sharp2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/contact-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/contact-img.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/footer-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/gitlab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/header-img.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/meter1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/meter2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/meter3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/nav-icon1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/nav-icon2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/nav-icon3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/project-img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/project-img2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/assets/img/project-img3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/components/Banner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/components/Contact.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/components/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/components/MailchimpForm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/components/NavBar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/components/Newsletter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/components/ProjectCard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/components/Projects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/components/Skills.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal-portfolio/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/font/CentraNo2-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/font/CentraNo2-Book.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/font/CentraNo2-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/arrow1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/arrow2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/banner-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/color-sharp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/color-sharp2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/contact-img.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/footer-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/header-img.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/meter1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/meter2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/meter3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/nav-icon1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/nav-icon2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/nav-icon3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/project-img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/project-img2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/assets/img/project-img3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/components/Banner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/components/Contact.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/components/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/components/MailchimpForm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/components/NavBar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/components/Newsletter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/components/ProjectCard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/components/Projects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/components/Skills.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yuvibirdi.com/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +77,7 @@
       <updated>1735596677267</updated>
       <workItem from="1735596678192" duration="315000" />
       <workItem from="1735597057542" duration="1878000" />
-      <workItem from="1735599226578" duration="16252000" />
+      <workItem from="1735599226578" duration="16768000" />
     </task>
     <servers />
   </component>
