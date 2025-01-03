@@ -389,7 +389,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .project {
   padding: 80px 0;
   position: relative;
-  background-color: black;
+  background-color: rgb(255 255 255 / 10%);
 }
 .project h2 {
 	font-size: 45px;
@@ -458,49 +458,125 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 0 55px 55px 0;
 }
+/*.proj-imgbx {*/
+/*  position: relative;*/
+/*  border-radius: 30px;*/
+/*  overflow: hidden;*/
+/*  margin-bottom: 24px;*/
+/*}*/
+/*.proj-imgbx::before {*/
+/*  content: "";*/
+/*  background-image: url('./assets/img/contact-bg.png'); !* Update with your file path *!*/
+/*  opacity: 0.85;*/
+/*  position: absolute;*/
+/*  width: 100%;*/
+/*  height: 0;*/
+/*  transition: 0.4s ease-in-out;*/
+/*}*/
+/*.proj-imgbx:hover::before {*/
+/*  height: 100%;*/
+/*}*/
+/*.proj-txtx {*/
+/*  position: absolute;*/
+/*  text-align: center;*/
+/*  top: 65%;*/
+/*  left: 50%;*/
+/*  transform: translate(-50%, -50%);*/
+/*  transition: 0.5s ease-in-out;*/
+/*  opacity: 0;*/
+/*  width: 100%;*/
+/*}*/
+/*.proj-imgbx:hover .proj-txtx {*/
+/*  top: 50%;*/
+/*  opacity: 1;*/
+/*}*/
+/*.proj-txtx h4 {*/
+/*  font-size: 30px;*/
+/*  font-weight: 700;*/
+/*  letter-spacing: 0.8px;*/
+/*  line-height: 1.1em;*/
+/*}*/
+/*.proj-txtx span {*/
+/*  font-style: italic;*/
+/*  font-weight: 400;*/
+/*  font-size: 15px;*/
+/*  letter-spacing: 0.8px;*/
+/*}*/
 .proj-imgbx {
   position: relative;
   border-radius: 30px;
   overflow: hidden;
   margin-bottom: 24px;
+  cursor: pointer; /* Adds a pointer cursor for better UX */
 }
+
+.proj-imgbx img {
+  width: 100%; /* Ensures the image covers the container */
+  height: auto; /* Maintains aspect ratio */
+  display: block; /* Removes any inline gap issues */
+}
+
 .proj-imgbx::before {
   content: "";
-  background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
+  background-image: url('./assets/img/bg-image-2.png'); /* Update with your file path */
+  background-size: cover; /* Ensures the background covers the container */
+  background-position: center; /* Centers the background */
   opacity: 0.85;
   position: absolute;
   width: 100%;
   height: 0;
-  transition: 0.4s ease-in-out;
+  top: 0;
+  left: 0;
+  transition: height 0.4s ease-in-out; /* Smooth height transition */
+  z-index: 1; /* Ensures it overlays the image */
 }
+
 .proj-imgbx:hover::before {
-  height: 100%;
+  height: 100%; /* Expands the background on hover */
 }
+
 .proj-txtx {
   position: absolute;
   text-align: center;
   top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
-  transition: 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
   opacity: 0;
+  z-index: 2; /* Ensures text appears above the background */
   width: 100%;
+  color: white; /* Ensures text is visible on hover background */
 }
+
 .proj-imgbx:hover .proj-txtx {
-  top: 50%;
-  opacity: 1;
+  top: 50%; /* Moves the text to the center */
+  opacity: 1; /* Makes the text visible */
 }
+
 .proj-txtx h4 {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 0.8px;
   line-height: 1.1em;
+  margin: 0; /* Removes default margin */
 }
+
 .proj-txtx span {
-  font-style: italic;
   font-weight: 400;
   font-size: 15px;
   letter-spacing: 0.8px;
+  margin-top: 8px; /* Adds spacing between title and description */
+  display: block; /* Ensures proper alignment */
+}
+
+.proj-imgbx a {
+  text-decoration: none; /* Removes underline from links */
+  color: inherit; /* Inherits the color from the parent */
+}
+
+.proj-imgbx a:hover {
+  text-decoration: none; /* Ensures no underline on hover */
+  color: inherit; /* Keeps the color consistent */
 }
 .background-image-right {
   top: 20%;
@@ -562,7 +638,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /************ Footer Css ************/
 .footer {
   padding: 50px 0 50px 0;
-  background-image: url('./assets/img/footer-bg.png');
+  background-color: rgb(255 255 255 / 10%);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
