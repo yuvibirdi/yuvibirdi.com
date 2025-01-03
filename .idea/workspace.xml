@@ -8,17 +8,20 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.5c6c9a6b.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.5c6c9a6b.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.5b6672b9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.5b6672b9.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.5b6672b9.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/public/resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProjectCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/build/resume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.e22a5cbe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.e22a5cbe.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.b60fc152.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.b60fc152.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.b60fc152.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/footer-bg.7bd67c0f73571d0acc02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/project-img1.d593db3f12901bc685c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/project-img2.2e52097c417f9f1134b0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/project-img3.675b30d2f975a1bc1d09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/7.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +98,7 @@
       <workItem from="1735596678192" duration="315000" />
       <workItem from="1735597057542" duration="1878000" />
       <workItem from="1735599226578" duration="18864000" />
-      <workItem from="1735929191351" duration="11126000" />
+      <workItem from="1735929191351" duration="11983000" />
     </task>
     <servers />
   </component>
